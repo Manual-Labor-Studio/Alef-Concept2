@@ -1903,7 +1903,7 @@ function render() {
 
     renderer.render(scene, camera);
 
-    count += 0.05;
+    count += 0.02;
 }
 
 
